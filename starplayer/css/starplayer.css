@@ -2597,7 +2597,7 @@ ul::-webkit-scrollbar-track {
 	background: #fff;
 }
 
-#loading-box 1span {
+#loading-box span {
 	width: 18px;
 	height: 18px;
 	border-radius: 50%;
@@ -2810,7 +2810,7 @@ ul::-webkit-scrollbar-track {
 }
 
 .starplayer-mobile.starplayer .starplayer-showing {
-	bottom: 50px;
+	bottom: 60px;
 }
 
 .starplayer-mobile .starplayer-controller .starplayer-icons .starplayer-icon {
