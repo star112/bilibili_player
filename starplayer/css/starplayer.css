@@ -1628,7 +1628,7 @@ f
 
 .starplayer-controller .starplayer-icons .starplayer-setting .starplayer-setting-item,.starplayer-controller .starplayer-icons .starplayer-setting .starplayer-setting-speed-item {
 	height: 30px;
-	padding: 5px 10px;
+	padding: 0 10px;
 	-webkit-box-sizing: border-box;
 	box-sizing: border-box;
 	cursor: pointer;
@@ -1798,7 +1798,7 @@ f
 	font-size: 0;
 	vertical-align: middle;
 	position: absolute;
-	top: 5px;
+	top: 7px;
 	right: 10px;
 }
 
@@ -2597,7 +2597,7 @@ ul::-webkit-scrollbar-track {
 	background: #fff;
 }
 
-#loading-box span {
+#loading-box 1span {
 	width: 18px;
 	height: 18px;
 	border-radius: 50%;
@@ -3136,4 +3136,8 @@ ul::-webkit-scrollbar-track {
 #link3-error{
    display: none;
 }
-/**************2020-07-05************
+/**************2020-07-05************/
+.speed-stting .starplayer-setting-speed-item{
+        padding-top: 5px!important;
+    
+}
